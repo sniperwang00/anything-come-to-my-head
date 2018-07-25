@@ -10,4 +10,8 @@ public class GitBranchCommit {
 		System.out.println("this is the third commit!");
 	}
 
+	public void commitInSecondBranch(){
+		System.out.println("this is the commit in second branch");
+	}
+
 }
