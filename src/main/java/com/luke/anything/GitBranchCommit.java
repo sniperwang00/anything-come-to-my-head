@@ -5,7 +5,9 @@ public class GitBranchCommit {
 		System.out.println("this is the first commit!");
 	}
 
-	public void commit2(){
+	public void commit2() {
 		System.out.println("this is the second commit!");
+		System.out.println("this is the third commit!");
 	}
+
 }
